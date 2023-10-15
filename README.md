@@ -2,30 +2,32 @@
 
 ###
 
-<p align="left">My name is Caio Coldebella, I'm a Computer Engineering Student at Universidade Estadual de Campinas (UNICAMP), and I'm 21 years old</p>
+<p align="left">My name is Caio Coldebella, I'm a Computer Engineering Student at Universidade Estadual de Campinas (UNICAMP).
+ 
+ I had work as QA Intership on Instituto Eldorado, and actually I've been working in my Bachelor's Degree Final Project that is a GUI interface for multi-modal medical image viewing, where I use Python, numpy and Tkinter. 
+ 
+ I'm also studying React.js, Node.js, Express.js and Databases, using this tools to create personal projects and practicing with the aim of work with Back-end Development</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning AWS <br>🎯 Goals: My dream is work to a international company as web developer<br>🎲 Fun fact: I change my haircut almost more than change my clothes</p>
+<p align="left">Studying programming since 2019<br>I'm currently learning numpy/Tkinter <br>My dream is work as a Developer<br>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages and tools I code with</h2>
 
 ###
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="52" alt="postgres logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="52" alt="mongodb logo"/>                    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" width="52" alt="redis logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"/>
+    <img src="https://icongr.am/devicon/c-original.svg" height="40" width="52" alt="C logo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"/>      
 </div>
 
