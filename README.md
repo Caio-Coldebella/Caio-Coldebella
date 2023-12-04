@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Studying programming since 2019<br>I'm currently learning numpy/Tkinter <br>My dream is work as a Developer<br>
+<p align="left">Studying programming since 2019<br>I'm currently learning numpy/Tkinter <br>
 
 ###
 
