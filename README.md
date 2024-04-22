@@ -6,11 +6,11 @@
  
  I had work as QA Intership on Instituto Eldorado, and actually I've been working in my Bachelor's Degree Final Project that is a GUI interface for multi-modal medical image viewing, where I use Python, numpy and Tkinter. 
  
- I'm also studying React.js, Node.js, Express.js and Databases, using this tools to create personal projects and practicing with the aim of work with Back-end Development</p>
+ Currently working at ProFusion as a Software Engineer - Intern</p>
 
 ###
 
-<p align="left">Studying programming since 2019<br>I'm currently learning numpy/Tkinter </p>
+<p align="left">Studying programming since 2019 </p>
 
 ###
 
@@ -18,9 +18,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="52" alt="postgres logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="52" alt="mongodb logo"/>         
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="52" alt="postgres logo"/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" height="40" width="52" alt="gql logo"/>
 </div>
 
 ###
